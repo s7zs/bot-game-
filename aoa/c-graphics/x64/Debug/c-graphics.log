@@ -1,0 +1,13 @@
+﻿  c-graphics.cpp
+C:\Users\hussi\source\repos\c-graphics\c-graphics\c-graphics.cpp(69,6): error C2084: function 'void draw(void)' already has a body
+      C:\Users\hussi\source\repos\c-graphics\c-graphics\c-graphics.cpp(8,6):
+      see previous definition of 'draw'
+  
+C:\Users\hussi\source\repos\c-graphics\c-graphics\c-graphics.cpp(78,6): error C2084: function 'void setTransformations(void)' already has a body
+      C:\Users\hussi\source\repos\c-graphics\c-graphics\c-graphics.cpp(15,6):
+      see previous definition of 'setTransformations'
+  
+C:\Users\hussi\source\repos\c-graphics\c-graphics\c-graphics.cpp(86,6): error C2084: function 'void initialize(int,char *[])' already has a body
+      C:\Users\hussi\source\repos\c-graphics\c-graphics\c-graphics.cpp(23,6):
+      see previous definition of 'initialize'
+  

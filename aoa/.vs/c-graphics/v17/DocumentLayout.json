@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\aoa g32\\aoa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B29D2519-CD3C-42D7-BEF7-E8C6AD10E6C7}|c-graphics\\c-graphics.vcxproj|D:\\aoa g32\\aoa\\c-graphics\\c-graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B29D2519-CD3C-42D7-BEF7-E8C6AD10E6C7}|c-graphics\\c-graphics.vcxproj|solutionrelative:c-graphics\\c-graphics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "c-graphics.cpp",
+              "DocumentMoniker": "D:\\aoa g32\\aoa\\c-graphics\\c-graphics.cpp",
+              "RelativeDocumentMoniker": "c-graphics\\c-graphics.cpp",
+              "ToolTip": "D:\\aoa g32\\aoa\\c-graphics\\c-graphics.cpp",
+              "RelativeToolTip": "c-graphics\\c-graphics.cpp",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAUwG0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-20T17:48:10.431Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
